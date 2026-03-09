@@ -48,4 +48,11 @@ GET /api/payments/:account_number
 
 ## Run Backend Locally
 
-Install dependencies
+Install dependencies: 
+npm install
+
+Start server: 
+node server.js
+
+Server runs on: 
+http://localhost:5000
